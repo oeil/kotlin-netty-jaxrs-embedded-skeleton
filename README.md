@@ -1,9 +1,10 @@
 # Kotlin WebApp Skeleton
 
-- Netty (embedded)
-- Jersey
-- Jackson
-- Logback
+Written in Kotlin using the following base libs
+- Netty (embedded async web server)
+- Jersey (jax-rs)
+- Jackson (json)
+- Logback (logging)
 
 ## Build Project
 ```
