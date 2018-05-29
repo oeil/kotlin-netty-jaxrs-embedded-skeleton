@@ -5,6 +5,7 @@ Written in Kotlin using the following base libs
 - Jersey (jax-rs)
 - Jackson (json)
 - Logback (logging)
+- maven (build)
 
 ## Build Project
 ```
