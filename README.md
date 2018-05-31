@@ -20,7 +20,7 @@ java -jar target/kotlin-netty-jaxrs-embedded-skeleton-1.0.0-SNAPSHOT.jar
 
 #### Specify Port and use Self-Signed Certificate
 ```
-java -jar target/kotlin-netty-jaxrs-embedded-skeleton-1.0.0-SNAPSHOT.jar -Dport=9000 -Dssl=true
+java -Dport=9000 -Dssl=true -jar target/kotlin-netty-jaxrs-embedded-skeleton-1.0.0-SNAPSHOT.jar
 ```
 => Browse https://localhost:9000/api/version
 
